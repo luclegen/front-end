@@ -1,3 +1,3 @@
-# front-end
+# FRONT END REPOSITORY
 
 Front End Repository
